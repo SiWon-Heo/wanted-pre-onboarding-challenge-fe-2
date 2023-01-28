@@ -1,0 +1,28 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "원티드 프리온보딩 프론트엔드 사전과제",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiWon-Heo/wanted-pre-onboarding-challenge-fe-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiWon-Heo/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "homepage": "https://github.com/SiWon-Heo/wanted-pre-onboarding-challenge-fe-2#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "uc.micro": "^1.0.6"
+  }
+}
